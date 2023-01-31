@@ -1,3 +1,4 @@
 site_name: AU Course Evaluation
 theme:
   name: material
+  custom_dir: overrides

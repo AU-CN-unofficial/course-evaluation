@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# 奥胡斯大学课程评价
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+奥胡斯大学（CS系）有很多很棒的课，也有一些无聊的课，或者考核不合理的课。
+我们希望前人走过的弯路，后人不要再趟；希望热爱知识的同学不会错过一些精彩的课；
+希望付出了努力的同学不会在成绩上留下遗憾……
 
-## Commands
+如果你想要贡献信息，请注意，不要使用他人未公开的材料，避免情绪化和人身攻击，
+以及不要公开课程的作业答案或考试的具体内容。如果你不想写一篇完整的评价，也可以在评论中补充信息和纠错。
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+本项目使用 [MkDocs](https://www.mkdocs.org/) 创建，使用 [Material](https://squidfunk.github.io/mkdocs-material/) 主题。
+由贡献者编写部分采用[CC-BY-NC-SA：署名-非商业性使用-相同方式共享](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)协议，
+各资料的版权归属于其各自的作者。
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+欢迎贡献！
